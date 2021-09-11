@@ -1,4 +1,5 @@
 // generate access token with the help of refresh token
+//also access token expires in 6 hours 
 const hubspot = require('@hubspot/api-client')
 const hubspotClient = new hubspot.Client({})
 return hubspotClient.oauth.defaultApi
