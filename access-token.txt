@@ -1,0 +1,6 @@
+{
+    "token_type": "bearer",
+    "refresh_token": "eu1-7262-4545-47ab-8a11-05daf42cbf84",
+    "access_token": "CLiZyZa9LxIDHwEBGMWB-AsgpJ67DCj77xgyFKVRnRVXsX00wtfMbMgjeGCjk32DOiwAfwPB_wcMgMMHyP-Af3nOKAAAACAAGOA0HwAYHAAAwMMfBgEAAACAJwAA4EIU2JydjXr0p-3FRhmQgp8Avbg0EzpKA2V1MVIAWgA",
+    "expires_in": 21600
+}
